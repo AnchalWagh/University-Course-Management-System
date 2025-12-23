@@ -19,4 +19,4 @@ A SQL-based database system designed to manage university students, courses, ins
 
 ## How to Run
 1. Open MySQL Workbench
-2. Execute the `university_course_management.sql` file
+2. Execute the `Course_Management_System.sql` file
